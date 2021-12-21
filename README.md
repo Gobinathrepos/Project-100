@@ -13,7 +13,6 @@ It would make my day if this encourages even one person to sign up to the 100 Da
 
 ## Shameless Plug
 
-
 ## Day 1
 Spent a good couple of hours in enhancing my CSS skills.
 Building one or two CSS project from [**Frontend Mentor**](https://www.frontendmentor.io/challenges?types=free,free-plus&hideCompleted=true).
